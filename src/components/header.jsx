@@ -14,10 +14,10 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a
-                  href="#features"
+                  href="https://chromewebstore.google.com/detail/cornell-exam-schedule-vie/mkhomnnjneeanceockbgodlfpmlnmcdd"
                   className="btn btn-custom btn-lg page-scroll"
                 >
-                  Learn More
+                  Download from Chrome Web Store
                 </a>{" "}
               </div>
             </div>

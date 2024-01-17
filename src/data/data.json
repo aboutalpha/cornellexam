@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "",
+    "paragraph": ""
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Display your Cornell exam schedule within the registrar's website.\n\nIntroducing the Cornell Exam Schedule Viewer, a seamless Chrome extension designed to enhance your academic experience at Cornell University. Effortlessly stay on top of your Prelim and Final exams with this standalone, compact extension integrated directly into the registrar's website.\n\nKey Features:\n\n📅 Calendar View:\nVisualize your exam schedule with ease through a convenient calendar view. Quickly navigate and plan your study sessions efficiently.\n\n🔄 Export to Calendar:\nWith just a click of a button, effortlessly export your exam schedule directly to your preferred calendar application. Stay organized and sync your academic commitments seamlessly.\n\n📚 Course Management:\nEasily manage your courses across various webpages. The Cornell Exam Schedule Viewer streamlines the process, providing you with a user-friendly interface to keep track of your academic responsibilities.\n\n🌐 Standalone & Integrated:\nThis tiny extension is designed to be unobtrusive yet highly functional. Enjoy the benefits of a standalone tool seamlessly integrated within the registrar's website, providing you with a cohesive and efficient user experience.\n\nNever miss a deadline and optimize your study routine with the Cornell Exam Schedule Viewer. Download now and empower your academic journey!\n",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
