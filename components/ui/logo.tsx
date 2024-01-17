@@ -15,7 +15,7 @@ export default function Logo() {
         </defs>
         <rect width="32" height="32" rx="16" fill="url(#footer-logo)" fillRule="nonzero" />
       </svg> */}
-      <img src={logo.src} width={32} height={32} alt="Logo" />
+      <img src={"images/Cornell\ Exam\ 128.png"} width={32} height={32} alt="Logo" />
     </Link>
   )
 }

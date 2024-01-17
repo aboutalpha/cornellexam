@@ -1755,7 +1755,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/add-base-path.js",
         "name": "*",
         "chunks": [
-          "app/(default)/layout:app/(default)/layout"
+          "app/layout:app/layout"
         ],
         "async": false
       },
@@ -1763,7 +1763,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/add-base-path.js",
         "name": "",
         "chunks": [
-          "app/(default)/layout:app/(default)/layout"
+          "app/layout:app/layout"
         ],
         "async": false
       },
@@ -1771,7 +1771,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/add-base-path.js",
         "name": "default",
         "chunks": [
-          "app/(default)/layout:app/(default)/layout"
+          "app/layout:app/layout"
         ],
         "async": false
       }
@@ -2873,7 +2873,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
         "name": "*",
         "chunks": [
-          "app/(default)/layout:app/(default)/layout"
+          "app/layout:app/layout"
         ],
         "async": false
       },
@@ -2881,7 +2881,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
         "name": "",
         "chunks": [
-          "app/(default)/layout:app/(default)/layout"
+          "app/layout:app/layout"
         ],
         "async": false
       },
@@ -2889,7 +2889,215 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
         "name": "default",
         "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./app/(default)/layout.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/(default)/layout.tsx",
+        "name": "*",
+        "chunks": [
           "app/(default)/layout:app/(default)/layout"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/(default)/layout.tsx",
+        "name": "",
+        "chunks": [
+          "app/(default)/layout:app/(default)/layout"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/(default)/layout.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(default)/layout:app/(default)/layout"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/ui/footer.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/ui/footer.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(default)/layout:app/(default)/layout"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/ui/footer.tsx",
+        "name": "",
+        "chunks": [
+          "app/(default)/layout:app/(default)/layout"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/ui/footer.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(default)/layout:app/(default)/layout"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/ui/logo.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/ui/logo.tsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/ui/logo.tsx",
+        "name": "",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/ui/logo.tsx",
+        "name": "default",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/add-locale.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
+        "name": "*",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
+        "name": "",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
+        "name": "default",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/get-domain-locale.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/get-domain-locale.js",
+        "name": "*",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/get-domain-locale.js",
+        "name": "",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/get-domain-locale.js",
+        "name": "default",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "default",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/request-idle-callback.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/request-idle-callback.js",
+        "name": "*",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/request-idle-callback.js",
+        "name": "",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/request-idle-callback.js",
+        "name": "default",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/use-intersection.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/use-intersection.js",
+        "name": "*",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/use-intersection.js",
+        "name": "",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/use-intersection.js",
+        "name": "default",
+        "chunks": [
+          "app/layout:app/layout"
         ],
         "async": false
       }
@@ -3024,32 +3232,6 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./public/images/Cornell Exam 128.png": {
-      "*": {
-        "id": "(sc_client)/./public/images/Cornell Exam 128.png",
-        "name": "*",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./public/images/Cornell Exam 128.png",
-        "name": "",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./public/images/Cornell Exam 128.png",
-        "name": "default",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      }
-    },
     "(app-client)/./components/ui/header.tsx": {
       "*": {
         "id": "(sc_client)/./components/ui/header.tsx",
@@ -3075,223 +3257,15 @@ self.__RSC_MANIFEST={
         ],
         "async": false
       }
-    },
-    "(app-client)/./components/ui/logo.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/ui/logo.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./components/ui/logo.tsx",
-        "name": "",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./components/ui/logo.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/add-locale.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
-        "name": "*",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
-        "name": "",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
-        "name": "default",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/get-domain-locale.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/get-domain-locale.js",
-        "name": "*",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/get-domain-locale.js",
-        "name": "",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/get-domain-locale.js",
-        "name": "default",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/link.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "*",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "default",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/request-idle-callback.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/request-idle-callback.js",
-        "name": "*",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/request-idle-callback.js",
-        "name": "",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/request-idle-callback.js",
-        "name": "default",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/use-intersection.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/use-intersection.js",
-        "name": "*",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/use-intersection.js",
-        "name": "",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/use-intersection.js",
-        "name": "default",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./app/(default)/layout.tsx": {
-      "*": {
-        "id": "(sc_client)/./app/(default)/layout.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./app/(default)/layout.tsx",
-        "name": "",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./app/(default)/layout.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./components/ui/footer.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/ui/footer.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./components/ui/footer.tsx",
-        "name": "",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./components/ui/footer.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(default)/layout:app/(default)/layout"
-        ],
-        "async": false
-      }
     }
   },
   "edgeSSRModuleMapping": {},
   "cssFiles": {
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/app/layout": [
-      "static/css/app/layout.css"
-    ],
     "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/app/(default)/layout": [
       "static/css/app/(default)/layout.css"
+    ],
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/app/layout": [
+      "static/css/app/layout.css"
     ]
   },
   "clientModules": {
@@ -7155,7 +7129,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/add-base-path.js",
       "name": "*",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -7163,7 +7137,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/add-base-path.js",
       "name": "*",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -7171,7 +7145,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/add-base-path.js",
       "name": "",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -7179,7 +7153,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/add-base-path.js",
       "name": "",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -7187,7 +7161,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/add-base-path.js",
       "name": "default",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -7195,7 +7169,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/add-base-path.js",
       "name": "default",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9267,7 +9241,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
       "name": "*",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9275,7 +9249,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
       "name": "*",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9283,7 +9257,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
       "name": "",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9291,7 +9265,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
       "name": "",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9299,7 +9273,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
       "name": "default",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9307,7 +9281,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
       "name": "default",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9379,7 +9353,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
       "name": "*",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9387,7 +9361,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
       "name": "*",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9395,7 +9369,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
       "name": "",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9403,7 +9377,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
       "name": "",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9411,7 +9385,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
       "name": "__esModule",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9419,7 +9393,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
       "name": "__esModule",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9427,7 +9401,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
       "name": "addPathPrefix",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9435,7 +9409,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
       "name": "addPathPrefix",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9651,7 +9625,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
       "name": "*",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9659,7 +9633,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
       "name": "*",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9667,7 +9641,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
       "name": "",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9675,7 +9649,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
       "name": "",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9683,7 +9657,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
       "name": "__esModule",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9691,7 +9665,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
       "name": "__esModule",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9699,7 +9673,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
       "name": "parsePath",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9707,7 +9681,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
       "name": "parsePath",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9715,7 +9689,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
       "name": "*",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9723,7 +9697,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
       "name": "*",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9731,7 +9705,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
       "name": "",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9739,7 +9713,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
       "name": "",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9747,7 +9721,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
       "name": "__esModule",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9755,7 +9729,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
       "name": "__esModule",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9763,7 +9737,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
       "name": "removeTrailingSlash",
       "chunks": [
-        "app/(default)/layout:app/(default)/layout"
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -9771,7 +9745,1542 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
       "name": "removeTrailingSlash",
       "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/aos/dist/aos.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/(default)/layout.css"
+      ]
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/app/(default)/layout.tsx": {
+      "id": "(app-client)/./app/(default)/layout.tsx",
+      "name": "*",
+      "chunks": [
         "app/(default)/layout:app/(default)/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/app/(default)/layout.tsx#": {
+      "id": "(app-client)/./app/(default)/layout.tsx",
+      "name": "",
+      "chunks": [
+        "app/(default)/layout:app/(default)/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/app/(default)/layout.tsx#default": {
+      "id": "(app-client)/./app/(default)/layout.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(default)/layout:app/(default)/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/components/ui/footer.tsx": {
+      "id": "(app-client)/./components/ui/footer.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(default)/layout:app/(default)/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/components/ui/footer.tsx#": {
+      "id": "(app-client)/./components/ui/footer.tsx",
+      "name": "",
+      "chunks": [
+        "app/(default)/layout:app/(default)/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/components/ui/footer.tsx#default": {
+      "id": "(app-client)/./components/ui/footer.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(default)/layout:app/(default)/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/components/ui/logo.tsx": {
+      "id": "(app-client)/./components/ui/logo.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/components/ui/logo.tsx#": {
+      "id": "(app-client)/./components/ui/logo.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/components/ui/logo.tsx#default": {
+      "id": "(app-client)/./components/ui/logo.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/add-locale.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/add-locale.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/add-locale.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/add-locale.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/add-locale.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+      "name": "default",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/add-locale.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+      "name": "default",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/get-domain-locale.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/get-domain-locale.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/get-domain-locale.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/get-domain-locale.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/get-domain-locale.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
+      "name": "default",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/get-domain-locale.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
+      "name": "default",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/has-base-path.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/has-base-path.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/has-base-path.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/has-base-path.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/has-base-path.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
+      "name": "default",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/has-base-path.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
+      "name": "default",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/request-idle-callback.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/request-idle-callback.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/request-idle-callback.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/request-idle-callback.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/request-idle-callback.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
+      "name": "default",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/request-idle-callback.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
+      "name": "default",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/use-intersection.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/use-intersection.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/use-intersection.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/use-intersection.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/use-intersection.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
+      "name": "default",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/use-intersection.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
+      "name": "default",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/escape-regexp.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/escape-regexp.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/escape-regexp.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/escape-regexp.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/escape-regexp.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/escape-regexp.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/escape-regexp.js#escapeStringRegexp": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "escapeStringRegexp",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/escape-regexp.js#escapeStringRegexp": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "escapeStringRegexp",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router-context.js#RouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "RouterContext",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router-context.js#RouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "RouterContext",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router-context.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router-context.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/format-url.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/format-url.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/format-url.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/format-url.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/format-url.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/format-url.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/format-url.js#formatUrl": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
+      "name": "formatUrl",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/format-url.js#formatUrl": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
+      "name": "formatUrl",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/format-url.js#formatWithValidation": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
+      "name": "formatWithValidation",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/format-url.js#formatWithValidation": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
+      "name": "formatWithValidation",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/format-url.js#urlObjectKeys": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
+      "name": "urlObjectKeys",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/format-url.js#urlObjectKeys": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
+      "name": "urlObjectKeys",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/interpolate-as.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/interpolate-as.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/interpolate-as.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/interpolate-as.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/interpolate-as.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/interpolate-as.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/interpolate-as.js#interpolateAs": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "interpolateAs",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/interpolate-as.js#interpolateAs": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "interpolateAs",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/is-dynamic.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/is-dynamic.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/is-dynamic.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/is-dynamic.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/is-dynamic.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/is-dynamic.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/is-dynamic.js#isDynamicRoute": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "isDynamicRoute",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/is-dynamic.js#isDynamicRoute": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "isDynamicRoute",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/is-local-url.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/is-local-url.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/is-local-url.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/is-local-url.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/is-local-url.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/is-local-url.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/is-local-url.js#isLocalURL": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "isLocalURL",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/is-local-url.js#isLocalURL": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "isLocalURL",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/omit.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/omit.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/omit.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/omit.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/omit.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/omit.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/omit.js#omit": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "omit",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/omit.js#omit": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "omit",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/path-has-prefix.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/path-has-prefix.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/path-has-prefix.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js#pathHasPrefix": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "pathHasPrefix",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/path-has-prefix.js#pathHasPrefix": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "pathHasPrefix",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/querystring.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/querystring.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/querystring.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/querystring.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/querystring.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/querystring.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/querystring.js#assign": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
+      "name": "assign",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/querystring.js#assign": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
+      "name": "assign",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/querystring.js#searchParamsToUrlQuery": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
+      "name": "searchParamsToUrlQuery",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/querystring.js#searchParamsToUrlQuery": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
+      "name": "searchParamsToUrlQuery",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/querystring.js#urlQueryToSearchParams": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
+      "name": "urlQueryToSearchParams",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/querystring.js#urlQueryToSearchParams": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
+      "name": "urlQueryToSearchParams",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/resolve-href.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/resolve-href.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/resolve-href.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/resolve-href.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/resolve-href.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/resolve-href.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/resolve-href.js#resolveHref": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "resolveHref",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/resolve-href.js#resolveHref": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "resolveHref",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/route-matcher.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/route-matcher.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/route-matcher.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/route-matcher.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/route-matcher.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/route-matcher.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/route-matcher.js#getRouteMatcher": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "getRouteMatcher",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/route-matcher.js#getRouteMatcher": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "getRouteMatcher",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/route-regex.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/route-regex.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/route-regex.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/route-regex.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/route-regex.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/route-regex.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/route-regex.js#getNamedMiddlewareRegex": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
+      "name": "getNamedMiddlewareRegex",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/route-regex.js#getNamedMiddlewareRegex": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
+      "name": "getNamedMiddlewareRegex",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/route-regex.js#getNamedRouteRegex": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
+      "name": "getNamedRouteRegex",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/route-regex.js#getNamedRouteRegex": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
+      "name": "getNamedRouteRegex",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/route-regex.js#getRouteRegex": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
+      "name": "getRouteRegex",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/route-regex.js#getRouteRegex": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
+      "name": "getRouteRegex",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#DecodeError": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "DecodeError",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#DecodeError": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "DecodeError",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#MiddlewareNotFoundError": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "MiddlewareNotFoundError",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#MiddlewareNotFoundError": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "MiddlewareNotFoundError",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#MissingStaticPage": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "MissingStaticPage",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#MissingStaticPage": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "MissingStaticPage",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#NormalizeError": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "NormalizeError",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#NormalizeError": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "NormalizeError",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#PageNotFoundError": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "PageNotFoundError",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#PageNotFoundError": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "PageNotFoundError",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#SP": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "SP",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#SP": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "SP",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#ST": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "ST",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#ST": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "ST",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#WEB_VITALS": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "WEB_VITALS",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#WEB_VITALS": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "WEB_VITALS",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#execOnce": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "execOnce",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#execOnce": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "execOnce",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#getDisplayName": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "getDisplayName",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#getDisplayName": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "getDisplayName",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#getLocationOrigin": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "getLocationOrigin",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#getLocationOrigin": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "getLocationOrigin",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#getURL": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "getURL",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#getURL": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "getURL",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#isAbsoluteUrl": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "isAbsoluteUrl",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#isAbsoluteUrl": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "isAbsoluteUrl",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#isResSent": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "isResSent",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#isResSent": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "isResSent",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#loadGetInitialProps": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "loadGetInitialProps",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#loadGetInitialProps": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "loadGetInitialProps",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#normalizeRepeatedSlashes": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "normalizeRepeatedSlashes",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#normalizeRepeatedSlashes": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "normalizeRepeatedSlashes",
+      "chunks": [
+        "app/layout:app/layout"
       ],
       "async": false
     },
@@ -10565,30 +12074,6 @@ self.__RSC_MANIFEST={
         "static/css/app/layout.css"
       ]
     },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/public/images/Cornell Exam 128.png": {
-      "id": "(app-client)/./public/images/Cornell Exam 128.png",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/public/images/Cornell Exam 128.png#": {
-      "id": "(app-client)/./public/images/Cornell Exam 128.png",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/public/images/Cornell Exam 128.png#default": {
-      "id": "(app-client)/./public/images/Cornell Exam 128.png",
-      "name": "default",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
     "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/components/ui/header.tsx": {
       "id": "(app-client)/./components/ui/header.tsx",
       "name": "*",
@@ -10610,1541 +12095,6 @@ self.__RSC_MANIFEST={
       "name": "default",
       "chunks": [
         "app/layout:app/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/components/ui/logo.tsx": {
-      "id": "(app-client)/./components/ui/logo.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/components/ui/logo.tsx#": {
-      "id": "(app-client)/./components/ui/logo.tsx",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/components/ui/logo.tsx#default": {
-      "id": "(app-client)/./components/ui/logo.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/add-locale.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/add-locale.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/add-locale.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/add-locale.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/add-locale.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
-      "name": "default",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/add-locale.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
-      "name": "default",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/get-domain-locale.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/get-domain-locale.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/get-domain-locale.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/get-domain-locale.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/get-domain-locale.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
-      "name": "default",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/get-domain-locale.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
-      "name": "default",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/has-base-path.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/has-base-path.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/has-base-path.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/has-base-path.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/has-base-path.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
-      "name": "default",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/has-base-path.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
-      "name": "default",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/link.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/link.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/link.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "default",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/link.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "default",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/request-idle-callback.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/request-idle-callback.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/request-idle-callback.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/request-idle-callback.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/request-idle-callback.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
-      "name": "default",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/request-idle-callback.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
-      "name": "default",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/use-intersection.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/use-intersection.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/use-intersection.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/use-intersection.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/use-intersection.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
-      "name": "default",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/client/use-intersection.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
-      "name": "default",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/escape-regexp.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/escape-regexp.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/escape-regexp.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/escape-regexp.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/escape-regexp.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/escape-regexp.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/escape-regexp.js#escapeStringRegexp": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
-      "name": "escapeStringRegexp",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/escape-regexp.js#escapeStringRegexp": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
-      "name": "escapeStringRegexp",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router-context.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router-context.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router-context.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router-context.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router-context.js#RouterContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
-      "name": "RouterContext",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router-context.js#RouterContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
-      "name": "RouterContext",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router-context.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router-context.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/format-url.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/format-url.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/format-url.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/format-url.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/format-url.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/format-url.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/format-url.js#formatUrl": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
-      "name": "formatUrl",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/format-url.js#formatUrl": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
-      "name": "formatUrl",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/format-url.js#formatWithValidation": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
-      "name": "formatWithValidation",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/format-url.js#formatWithValidation": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
-      "name": "formatWithValidation",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/format-url.js#urlObjectKeys": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
-      "name": "urlObjectKeys",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/format-url.js#urlObjectKeys": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
-      "name": "urlObjectKeys",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/interpolate-as.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/interpolate-as.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/interpolate-as.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/interpolate-as.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/interpolate-as.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/interpolate-as.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/interpolate-as.js#interpolateAs": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
-      "name": "interpolateAs",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/interpolate-as.js#interpolateAs": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
-      "name": "interpolateAs",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/is-dynamic.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/is-dynamic.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/is-dynamic.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/is-dynamic.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/is-dynamic.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/is-dynamic.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/is-dynamic.js#isDynamicRoute": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
-      "name": "isDynamicRoute",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/is-dynamic.js#isDynamicRoute": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
-      "name": "isDynamicRoute",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/is-local-url.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/is-local-url.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/is-local-url.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/is-local-url.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/is-local-url.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/is-local-url.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/is-local-url.js#isLocalURL": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
-      "name": "isLocalURL",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/is-local-url.js#isLocalURL": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
-      "name": "isLocalURL",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/omit.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/omit.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/omit.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/omit.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/omit.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/omit.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/omit.js#omit": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
-      "name": "omit",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/omit.js#omit": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
-      "name": "omit",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/path-has-prefix.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/path-has-prefix.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/path-has-prefix.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js#pathHasPrefix": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
-      "name": "pathHasPrefix",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/path-has-prefix.js#pathHasPrefix": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
-      "name": "pathHasPrefix",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/querystring.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/querystring.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/querystring.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/querystring.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/querystring.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/querystring.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/querystring.js#assign": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
-      "name": "assign",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/querystring.js#assign": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
-      "name": "assign",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/querystring.js#searchParamsToUrlQuery": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
-      "name": "searchParamsToUrlQuery",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/querystring.js#searchParamsToUrlQuery": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
-      "name": "searchParamsToUrlQuery",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/querystring.js#urlQueryToSearchParams": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
-      "name": "urlQueryToSearchParams",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/querystring.js#urlQueryToSearchParams": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
-      "name": "urlQueryToSearchParams",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/resolve-href.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/resolve-href.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/resolve-href.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/resolve-href.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/resolve-href.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/resolve-href.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/resolve-href.js#resolveHref": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
-      "name": "resolveHref",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/resolve-href.js#resolveHref": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
-      "name": "resolveHref",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/route-matcher.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/route-matcher.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/route-matcher.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/route-matcher.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/route-matcher.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/route-matcher.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/route-matcher.js#getRouteMatcher": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
-      "name": "getRouteMatcher",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/route-matcher.js#getRouteMatcher": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
-      "name": "getRouteMatcher",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/route-regex.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/route-regex.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/route-regex.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/route-regex.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/route-regex.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/route-regex.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/route-regex.js#getNamedMiddlewareRegex": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
-      "name": "getNamedMiddlewareRegex",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/route-regex.js#getNamedMiddlewareRegex": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
-      "name": "getNamedMiddlewareRegex",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/route-regex.js#getNamedRouteRegex": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
-      "name": "getNamedRouteRegex",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/route-regex.js#getNamedRouteRegex": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
-      "name": "getNamedRouteRegex",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/router/utils/route-regex.js#getRouteRegex": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
-      "name": "getRouteRegex",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/router/utils/route-regex.js#getRouteRegex": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
-      "name": "getRouteRegex",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#DecodeError": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "DecodeError",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#DecodeError": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "DecodeError",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#MiddlewareNotFoundError": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "MiddlewareNotFoundError",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#MiddlewareNotFoundError": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "MiddlewareNotFoundError",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#MissingStaticPage": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "MissingStaticPage",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#MissingStaticPage": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "MissingStaticPage",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#NormalizeError": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "NormalizeError",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#NormalizeError": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "NormalizeError",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#PageNotFoundError": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "PageNotFoundError",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#PageNotFoundError": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "PageNotFoundError",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#SP": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "SP",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#SP": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "SP",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#ST": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "ST",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#ST": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "ST",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#WEB_VITALS": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "WEB_VITALS",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#WEB_VITALS": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "WEB_VITALS",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#execOnce": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "execOnce",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#execOnce": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "execOnce",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#getDisplayName": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "getDisplayName",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#getDisplayName": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "getDisplayName",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#getLocationOrigin": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "getLocationOrigin",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#getLocationOrigin": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "getLocationOrigin",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#getURL": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "getURL",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#getURL": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "getURL",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#isAbsoluteUrl": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "isAbsoluteUrl",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#isAbsoluteUrl": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "isAbsoluteUrl",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#isResSent": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "isResSent",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#isResSent": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "isResSent",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#loadGetInitialProps": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "loadGetInitialProps",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#loadGetInitialProps": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "loadGetInitialProps",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/shared/lib/utils.js#normalizeRepeatedSlashes": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "normalizeRepeatedSlashes",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/esm/shared/lib/utils.js#normalizeRepeatedSlashes": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "normalizeRepeatedSlashes",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/aos/dist/aos.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/(default)/layout.css"
-      ]
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/app/(default)/layout.tsx": {
-      "id": "(app-client)/./app/(default)/layout.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/app/(default)/layout.tsx#": {
-      "id": "(app-client)/./app/(default)/layout.tsx",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/app/(default)/layout.tsx#default": {
-      "id": "(app-client)/./app/(default)/layout.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/components/ui/footer.tsx": {
-      "id": "(app-client)/./components/ui/footer.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/components/ui/footer.tsx#": {
-      "id": "(app-client)/./components/ui/footer.tsx",
-      "name": "",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/components/ui/footer.tsx#default": {
-      "id": "(app-client)/./components/ui/footer.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(default)/layout:app/(default)/layout"
       ],
       "async": false
     }
