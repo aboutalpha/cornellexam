@@ -14,7 +14,7 @@ export default function Header() {
   // detect whether user has scrolled the page down by 10px
   const scrollHandler = () => {
     window.pageYOffset > 10 ? setTop(false) : setTop(true)
-  }  
+  }
 
   useEffect(() => {
     scrollHandler()
@@ -25,17 +25,19 @@ export default function Header() {
   return (
     <header className={`fixed w-full z-30 md:bg-opacity-90 transition duration-300 ease-in-out ${!top ? 'bg-white backdrop-blur-sm shadow-lg' : ''}`}>
       <div className="max-w-6xl mx-auto px-5 sm:px-6">
-        <div className="flex items-center justify-between h-16 md:h-20">
+        <div className="flex items-center justify-start h-16 md:h-20">
 
           {/* Site branding */}
           <div className="shrink-0 mr-4">
             <Logo />
           </div>
 
+          <h1 className="text-xl font-extrabold leading-tighter tracking-tighter">Cornell Exam Schedule Viewer</h1>
+
           {/* Desktop navigation */}
-          <nav className="hidden md:flex md:grow">
-            {/* Desktop sign in links */}
-            <ul className="flex grow justify-end flex-wrap items-center">
+          {/* <nav className="hidden md:flex md:grow"> */}
+          {/* Desktop sign in links */}
+          {/* <ul className="flex grow justify-end flex-wrap items-center">
               <li>
                 <Link href="/signin" className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out">Sign in</Link>
               </li>
@@ -47,11 +49,11 @@ export default function Header() {
                   </svg>
                 </Link>
               </li>
-            </ul>
+            </ul> */}
 
-          </nav>
+          {/* </nav> */}
 
-          <MobileMenu />
+          {/* <MobileMenu /> */}
 
         </div>
       </div>
