@@ -2,8 +2,8 @@
 
 import { useState } from 'react'
 import Image from 'next/image'
-import HeroImage from '@/public/schedule.png'
-import Chrome from '@/public/chrome.png'
+import HeroImage from '@/public/images/schedule.png'
+import Chrome from '@/public/images/chrome.png'
 import Modal from '@/components/utils/modal'
 
 export default function Hero() {

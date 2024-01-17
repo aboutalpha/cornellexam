@@ -14,7 +14,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(8038);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _logo__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9364);
+/* harmony import */ var _logo__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6789);
 
 
 
@@ -55,7 +55,7 @@ function Header() {
 
 /***/ }),
 
-/***/ 9364:
+/***/ 6789:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -73,7 +73,7 @@ var link_default = /*#__PURE__*/__webpack_require__.n(next_link);
 // EXTERNAL MODULE: ./node_modules/next/image.js
 var next_image = __webpack_require__(8421);
 var image_default = /*#__PURE__*/__webpack_require__.n(next_image);
-;// CONCATENATED MODULE: ./public/Cornell Exam 128.png
+;// CONCATENATED MODULE: ./public/images/Cornell Exam 128.png
 /* harmony default export */ const Cornell_Exam_128 = ({"src":"/_next/static/media/Cornell Exam 128.05f000a7.png","height":128,"width":128,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAA9klEQVR42g2JS0oDQRBAq6pnej5JG01wFW/gZ+VGEHQvKOQcnsC1C8EziOARPIIgirMyG48wUXCMmW+mp6syj/dWD6Hn+ub2Qls7Y8QVgvTCMBJ+6dcTzgHOv45Pn0tjQiUiKAyt1rj39mHHxc+VV17O9qfCpqvWAgIIOgQQYTo78TulDrzg7r6xLDDdHfMw1GTrGhSRFFUDi2XekEQxBcUKsscHKOefGG8ZDAcx6D5mIVLGSJ0kMNgZSTCZMDvHrsilSVNQUSgkzvlqewTt4tvj5R81bUdplnulIPi9nqur9+jwKMl/M1+1zKqs4N860kHUKXavG1b1ecI+YjKhAAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":8});
 ;// CONCATENATED MODULE: ./components/ui/logo.tsx
 

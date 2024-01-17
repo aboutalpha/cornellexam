@@ -5,7 +5,6 @@ import { Inter } from 'next/font/google'
 import Header from '@/components/ui/header'
 import Banner from '@/components/banner'
 import Head from 'next/head';
-import logo from '@/public/Cornell\ Exam\ 128.png'
 
 const inter = Inter({
   subsets: ['latin'],

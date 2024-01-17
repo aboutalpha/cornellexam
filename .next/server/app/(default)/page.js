@@ -341,7 +341,7 @@ var aos_cjs_default = /*#__PURE__*/__webpack_require__.n(aos_cjs);
 // EXTERNAL MODULE: ./node_modules/aos/dist/aos.css
 var aos = __webpack_require__(6038);
 // EXTERNAL MODULE: ./components/ui/logo.tsx + 1 modules
-var logo = __webpack_require__(9364);
+var logo = __webpack_require__(6789);
 ;// CONCATENATED MODULE: ./components/ui/footer.tsx
 
 
@@ -423,7 +423,7 @@ function DefaultLayout({ children  }) {
 
 /***/ }),
 
-/***/ 8163:
+/***/ 3627:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -442,9 +442,9 @@ var react_ = __webpack_require__(8038);
 // EXTERNAL MODULE: ./node_modules/next/image.js
 var next_image = __webpack_require__(8421);
 var image_default = /*#__PURE__*/__webpack_require__.n(next_image);
-;// CONCATENATED MODULE: ./public/schedule.png
+;// CONCATENATED MODULE: ./public/images/schedule.png
 /* harmony default export */ const schedule = ({"src":"/_next/static/media/schedule.ea6e20f3.png","height":1600,"width":2560,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAIAAAD38zoCAAAAeUlEQVR42jXIsQqDMBSF4fOGtYtLC2kfsq32BdqkWaqgcBUcXERFJVcdRIhB8PANhx9v4AG8ds+Di8iCICfKorgkKpLkr1RBlIchujS1+0w/OMu6Lta6iOqnmblv2pnHibmra2NMpTXkyfterh/fV7e7EsIdKYT0zhuohFH6dYXOUwAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":5});
-;// CONCATENATED MODULE: ./public/chrome.png
+;// CONCATENATED MODULE: ./public/images/chrome.png
 /* harmony default export */ const chrome = ({"src":"/_next/static/media/chrome.9ae5737d.png","height":150,"width":496,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAACCAYAAABllJ3tAAAASUlEQVR4nGN8fPNmOeOvH/Yv//ytMjY0epObX8z86fOXbwwMDJ+A+C/jvi07asX//fLkUfiVKa834X1OrhHr568//wMl/wCJDwCLAyFkhv84WAAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":2});
 ;// CONCATENATED MODULE: ./components/hero.tsx
 
@@ -715,7 +715,7 @@ Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_re
 /***/ 1910:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
-Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 8163))
+Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 3627))
 
 /***/ }),
 

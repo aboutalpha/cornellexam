@@ -1,5 +1,5 @@
 0:[[["",{"children":["(auth)",{"children":["reset-password",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],"$L1","$L2"]]
-3:I{"id":"2322","name":"","chunks":["619:619-4d7ba70f6a0b27a1","656:656-e216719dba87d207","185:app/layout-33f477c6c12babe0"],"async":false}
+3:I{"id":"2322","name":"","chunks":["619:619-4d7ba70f6a0b27a1","656:656-e216719dba87d207","185:app/layout-0c5f41d57f5aadb7"],"async":false}
 4:I{"id":"1300","name":"","chunks":["272:webpack-f2fc7101a18c7aec","667:2443530c-ed2463c0dcb7ea9f","961:961-a30d82b2ab76f021"],"async":false}
 5:I{"id":"6022","name":"","chunks":["272:webpack-f2fc7101a18c7aec","667:2443530c-ed2463c0dcb7ea9f","961:961-a30d82b2ab76f021"],"async":false}
 2:[[["$","meta",null,{"charSet":"utf-8"}],["$","title",null,{"children":"Reset Password - Simple"}],["$","meta",null,{"name":"description","content":"Page description"}],null,null,null,null,null,null,null,null,["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],null,null,null,null,null,null,null,null,null,null,[]],[null,null,null,null],null,null,[null,null,null,null,null],null,null,null,null,null]
