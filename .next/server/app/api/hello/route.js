@@ -89,7 +89,7 @@ module.exports = require("stream");
 
 /***/ }),
 
-/***/ 1768:
+/***/ 2861:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 // ESM COMPAT FLAG
@@ -121,7 +121,7 @@ async function GET(request) {
     return new Response("Hello, Next.js!");
 }
 
-;// CONCATENATED MODULE: ./node_modules/next/dist/build/webpack/loaders/next-app-loader.js?page=%2Fapi%2Fhello%2Froute&name=app%2Fapi%2Fhello%2Froute&pagePath=private-next-app-dir%2Fapi%2Fhello%2Froute.ts&appDir=%2FUsers%2Fyunhanluo%2FDocuments%2FWork%2FSDE%2Fcornell%20exam%20website%2Fapp&appPaths=%2Fapi%2Fhello%2Froute&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js&assetPrefix=&nextConfigOutput=!
+;// CONCATENATED MODULE: ./node_modules/next/dist/build/webpack/loaders/next-app-loader.js?page=%2Fapi%2Fhello%2Froute&name=app%2Fapi%2Fhello%2Froute&pagePath=private-next-app-dir%2Fapi%2Fhello%2Froute.ts&appDir=%2FUsers%2Fyunhanluo%2FDocuments%2FWork%2FSDE%2Fcornell%20exam%20website%2Fapp&appPaths=%2Fapi%2Fhello%2Froute&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js&assetPrefix=&nextConfigOutput=export!
 
     
 
@@ -133,7 +133,7 @@ async function GET(request) {
     userland: route_namespaceObject,
     pathname: "/api/hello",
     resolvedPagePath: "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/app/api/hello/route.ts",
-    nextConfigOutput: undefined,
+    nextConfigOutput: "export",
   })
 
     // Pull out the exports that we need to expose from the module. This should
@@ -158,7 +158,7 @@ async function GET(request) {
 var __webpack_require__ = require("../../../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [67,601], () => (__webpack_exec__(1768)));
+var __webpack_exports__ = __webpack_require__.X(0, [67,601], () => (__webpack_exec__(2861)));
 module.exports = __webpack_exports__;
 
 })();

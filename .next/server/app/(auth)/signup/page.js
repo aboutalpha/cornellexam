@@ -1,4 +1,3 @@
-"use strict";
 (() => {
 var exports = {};
 exports.id = 129;
@@ -8,6 +7,7 @@ exports.modules = {
 /***/ 8038:
 /***/ ((module) => {
 
+"use strict";
 module.exports = require("next/dist/compiled/react");
 
 /***/ }),
@@ -15,6 +15,7 @@ module.exports = require("next/dist/compiled/react");
 /***/ 8704:
 /***/ ((module) => {
 
+"use strict";
 module.exports = require("next/dist/compiled/react-dom/server-rendering-stub");
 
 /***/ }),
@@ -22,6 +23,7 @@ module.exports = require("next/dist/compiled/react-dom/server-rendering-stub");
 /***/ 7897:
 /***/ ((module) => {
 
+"use strict";
 module.exports = require("next/dist/compiled/react-server-dom-webpack/client");
 
 /***/ }),
@@ -29,6 +31,7 @@ module.exports = require("next/dist/compiled/react-server-dom-webpack/client");
 /***/ 6786:
 /***/ ((module) => {
 
+"use strict";
 module.exports = require("next/dist/compiled/react/jsx-runtime");
 
 /***/ }),
@@ -36,6 +39,7 @@ module.exports = require("next/dist/compiled/react/jsx-runtime");
 /***/ 1090:
 /***/ ((module) => {
 
+"use strict";
 module.exports = require("next/dist/server/app-render/get-segment-param.js");
 
 /***/ }),
@@ -43,6 +47,7 @@ module.exports = require("next/dist/server/app-render/get-segment-param.js");
 /***/ 8652:
 /***/ ((module) => {
 
+"use strict";
 module.exports = require("next/dist/server/future/helpers/interception-routes.js");
 
 /***/ }),
@@ -50,6 +55,7 @@ module.exports = require("next/dist/server/future/helpers/interception-routes.js
 /***/ 3280:
 /***/ ((module) => {
 
+"use strict";
 module.exports = require("next/dist/shared/lib/app-router-context.js");
 
 /***/ }),
@@ -57,6 +63,7 @@ module.exports = require("next/dist/shared/lib/app-router-context.js");
 /***/ 9274:
 /***/ ((module) => {
 
+"use strict";
 module.exports = require("next/dist/shared/lib/hooks-client-context.js");
 
 /***/ }),
@@ -64,6 +71,7 @@ module.exports = require("next/dist/shared/lib/hooks-client-context.js");
 /***/ 4964:
 /***/ ((module) => {
 
+"use strict";
 module.exports = require("next/dist/shared/lib/router-context.js");
 
 /***/ }),
@@ -71,6 +79,7 @@ module.exports = require("next/dist/shared/lib/router-context.js");
 /***/ 1751:
 /***/ ((module) => {
 
+"use strict";
 module.exports = require("next/dist/shared/lib/router/utils/add-path-prefix.js");
 
 /***/ }),
@@ -78,6 +87,7 @@ module.exports = require("next/dist/shared/lib/router/utils/add-path-prefix.js")
 /***/ 3938:
 /***/ ((module) => {
 
+"use strict";
 module.exports = require("next/dist/shared/lib/router/utils/format-url.js");
 
 /***/ }),
@@ -85,6 +95,7 @@ module.exports = require("next/dist/shared/lib/router/utils/format-url.js");
 /***/ 1668:
 /***/ ((module) => {
 
+"use strict";
 module.exports = require("next/dist/shared/lib/router/utils/handle-smooth-scroll.js");
 
 /***/ }),
@@ -92,6 +103,7 @@ module.exports = require("next/dist/shared/lib/router/utils/handle-smooth-scroll
 /***/ 1897:
 /***/ ((module) => {
 
+"use strict";
 module.exports = require("next/dist/shared/lib/router/utils/is-bot.js");
 
 /***/ }),
@@ -99,6 +111,7 @@ module.exports = require("next/dist/shared/lib/router/utils/is-bot.js");
 /***/ 1109:
 /***/ ((module) => {
 
+"use strict";
 module.exports = require("next/dist/shared/lib/router/utils/is-local-url.js");
 
 /***/ }),
@@ -106,6 +119,7 @@ module.exports = require("next/dist/shared/lib/router/utils/is-local-url.js");
 /***/ 8854:
 /***/ ((module) => {
 
+"use strict";
 module.exports = require("next/dist/shared/lib/router/utils/parse-path.js");
 
 /***/ }),
@@ -113,6 +127,7 @@ module.exports = require("next/dist/shared/lib/router/utils/parse-path.js");
 /***/ 3297:
 /***/ ((module) => {
 
+"use strict";
 module.exports = require("next/dist/shared/lib/router/utils/remove-trailing-slash.js");
 
 /***/ }),
@@ -120,6 +135,7 @@ module.exports = require("next/dist/shared/lib/router/utils/remove-trailing-slas
 /***/ 7782:
 /***/ ((module) => {
 
+"use strict";
 module.exports = require("next/dist/shared/lib/router/utils/resolve-href.js");
 
 /***/ }),
@@ -127,6 +143,7 @@ module.exports = require("next/dist/shared/lib/router/utils/resolve-href.js");
 /***/ 3349:
 /***/ ((module) => {
 
+"use strict";
 module.exports = require("next/dist/shared/lib/server-inserted-html.js");
 
 /***/ }),
@@ -134,13 +151,15 @@ module.exports = require("next/dist/shared/lib/server-inserted-html.js");
 /***/ 9232:
 /***/ ((module) => {
 
+"use strict";
 module.exports = require("next/dist/shared/lib/utils.js");
 
 /***/ }),
 
-/***/ 2434:
+/***/ 9923:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
+"use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "AppRouter": () => (/* reexport default from dynamic */ next_dist_client_components_app_router__WEBPACK_IMPORTED_MODULE_0___default.a),
@@ -203,13 +222,13 @@ __webpack_require__.r(__webpack_exports__);
       ]
       },
         {
-          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 5666)), "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/app/(auth)/layout.tsx"],
+          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 2361)), "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/app/(auth)/layout.tsx"],
           
         }
       ]
       },
         {
-          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 6924)), "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/app/layout.tsx"],
+          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 9519)), "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/app/layout.tsx"],
           
         }
       ]
@@ -237,9 +256,44 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ 2379:
+/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
+
+Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 4027, 23))
+
+/***/ }),
+
+/***/ 3259:
+/***/ (() => {
+
+
+
+/***/ }),
+
+/***/ 2361:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ AuthLayout)
+/* harmony export */ });
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(3146);
+
+function AuthLayout({ children  }) {
+    return /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("main", {
+        className: "grow",
+        children: children
+    });
+}
+
+
+/***/ }),
+
 /***/ 9376:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
+"use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (/* binding */ SignUp),
@@ -250,13 +304,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
 
 const metadata = {
-    title: "Sign Up - Open PRO",
+    title: "Sign Up - Simple",
     description: "Page description"
 };
 
 function SignUp() {
     return /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("section", {
-        className: "relative",
+        className: "bg-gradient-to-b from-gray-100 to-white",
         children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
             className: "max-w-6xl mx-auto px-4 sm:px-6",
             children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
@@ -266,58 +320,12 @@ function SignUp() {
                         className: "max-w-3xl mx-auto text-center pb-12 md:pb-20",
                         children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h1", {
                             className: "h1",
-                            children: "Welcome. We exist to make entrepreneurship easier."
+                            children: "Welcome. We exist to make entrepreneurism easier."
                         })
                     }),
                     /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
                         className: "max-w-sm mx-auto",
                         children: [
-                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("form", {
-                                children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
-                                    className: "flex flex-wrap -mx-3",
-                                    children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
-                                        className: "w-full px-3",
-                                        children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("button", {
-                                            className: "btn px-0 text-white bg-red-600 hover:bg-red-700 w-full relative flex items-center",
-                                            children: [
-                                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("svg", {
-                                                    className: "w-4 h-4 fill-current text-white opacity-75 shrink-0 mx-4",
-                                                    viewBox: "0 0 16 16",
-                                                    xmlns: "http://www.w3.org/2000/svg",
-                                                    children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("path", {
-                                                        d: "M7.9 7v2.4H12c-.2 1-1.2 3-4 3-2.4 0-4.3-2-4.3-4.4 0-2.4 2-4.4 4.3-4.4 1.4 0 2.3.6 2.8 1.1l1.9-1.8C11.5 1.7 9.9 1 8 1 4.1 1 1 4.1 1 8s3.1 7 7 7c4 0 6.7-2.8 6.7-6.8 0-.5 0-.8-.1-1.2H7.9z"
-                                                    })
-                                                }),
-                                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
-                                                    className: "h-6 flex items-center border-r border-white border-opacity-25 mr-4",
-                                                    "aria-hidden": "true"
-                                                }),
-                                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
-                                                    className: "flex-auto pl-16 pr-8 -ml-16",
-                                                    children: "Sign up with Google"
-                                                })
-                                            ]
-                                        })
-                                    })
-                                })
-                            }),
-                            /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
-                                className: "flex items-center my-6",
-                                children: [
-                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
-                                        className: "border-t border-gray-700 border-dotted grow mr-3",
-                                        "aria-hidden": "true"
-                                    }),
-                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
-                                        className: "text-gray-400",
-                                        children: "Or, register with your email"
-                                    }),
-                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
-                                        className: "border-t border-gray-700 border-dotted grow ml-3",
-                                        "aria-hidden": "true"
-                                    })
-                                ]
-                            }),
                             /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("form", {
                                 children: [
                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
@@ -326,10 +334,10 @@ function SignUp() {
                                             className: "w-full px-3",
                                             children: [
                                                 /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("label", {
-                                                    className: "block text-gray-300 text-sm font-medium mb-1",
-                                                    htmlFor: "full-name",
+                                                    className: "block text-gray-800 text-sm font-medium mb-1",
+                                                    htmlFor: "name",
                                                     children: [
-                                                        "Full Name ",
+                                                        "Name ",
                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                             className: "text-red-600",
                                                             children: "*"
@@ -337,10 +345,10 @@ function SignUp() {
                                                     ]
                                                 }),
                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("input", {
-                                                    id: "full-name",
+                                                    id: "name",
                                                     type: "text",
-                                                    className: "form-input w-full text-gray-300",
-                                                    placeholder: "First and last name",
+                                                    className: "form-input w-full text-gray-800",
+                                                    placeholder: "Enter your name",
                                                     required: true
                                                 })
                                             ]
@@ -352,36 +360,10 @@ function SignUp() {
                                             className: "w-full px-3",
                                             children: [
                                                 /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("label", {
-                                                    className: "block text-gray-300 text-sm font-medium mb-1",
-                                                    htmlFor: "company-name",
-                                                    children: [
-                                                        "Company Name ",
-                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
-                                                            className: "text-red-600",
-                                                            children: "*"
-                                                        })
-                                                    ]
-                                                }),
-                                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("input", {
-                                                    id: "company-name",
-                                                    type: "text",
-                                                    className: "form-input w-full text-gray-300",
-                                                    placeholder: "Your company or app name",
-                                                    required: true
-                                                })
-                                            ]
-                                        })
-                                    }),
-                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
-                                        className: "flex flex-wrap -mx-3 mb-4",
-                                        children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
-                                            className: "w-full px-3",
-                                            children: [
-                                                /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("label", {
-                                                    className: "block text-gray-300 text-sm font-medium mb-1",
+                                                    className: "block text-gray-800 text-sm font-medium mb-1",
                                                     htmlFor: "email",
                                                     children: [
-                                                        "Work Email ",
+                                                        "Email ",
                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                             className: "text-red-600",
                                                             children: "*"
@@ -391,8 +373,8 @@ function SignUp() {
                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("input", {
                                                     id: "email",
                                                     type: "email",
-                                                    className: "form-input w-full text-gray-300",
-                                                    placeholder: "you@yourcompany.com",
+                                                    className: "form-input w-full text-gray-800",
+                                                    placeholder: "Enter your email address",
                                                     required: true
                                                 })
                                             ]
@@ -404,7 +386,7 @@ function SignUp() {
                                             className: "w-full px-3",
                                             children: [
                                                 /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("label", {
-                                                    className: "block text-gray-300 text-sm font-medium mb-1",
+                                                    className: "block text-gray-800 text-sm font-medium mb-1",
                                                     htmlFor: "password",
                                                     children: [
                                                         "Password ",
@@ -417,44 +399,117 @@ function SignUp() {
                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("input", {
                                                     id: "password",
                                                     type: "password",
-                                                    className: "form-input w-full text-gray-300",
-                                                    placeholder: "Password (at least 10 characters)",
+                                                    className: "form-input w-full text-gray-800",
+                                                    placeholder: "Enter your password",
                                                     required: true
                                                 })
                                             ]
                                         })
-                                    }),
-                                    /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
-                                        className: "text-sm text-gray-500 text-center",
-                                        children: [
-                                            "I agree to be contacted by Open PRO about this offer as per the Open PRO ",
-                                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx((next_link__WEBPACK_IMPORTED_MODULE_1___default()), {
-                                                href: "#",
-                                                className: "underline text-gray-400 hover:text-gray-200 hover:no-underline transition duration-150 ease-in-out",
-                                                children: "Privacy Policy"
-                                            }),
-                                            "."
-                                        ]
                                     }),
                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                         className: "flex flex-wrap -mx-3 mt-6",
                                         children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                             className: "w-full px-3",
                                             children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("button", {
-                                                className: "btn text-white bg-purple-600 hover:bg-purple-700 w-full",
+                                                className: "btn text-white bg-blue-600 hover:bg-blue-700 w-full",
                                                 children: "Sign up"
+                                            })
+                                        })
+                                    }),
+                                    /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+                                        className: "text-sm text-gray-500 text-center mt-3",
+                                        children: [
+                                            "By creating an account, you agree to the ",
+                                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
+                                                className: "underline",
+                                                href: "#0",
+                                                children: "terms & conditions"
+                                            }),
+                                            ", and our ",
+                                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
+                                                className: "underline",
+                                                href: "#0",
+                                                children: "privacy policy"
+                                            }),
+                                            "."
+                                        ]
+                                    })
+                                ]
+                            }),
+                            /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+                                className: "flex items-center my-6",
+                                children: [
+                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                                        className: "border-t border-gray-300 grow mr-3",
+                                        "aria-hidden": "true"
+                                    }),
+                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                                        className: "text-gray-600 italic",
+                                        children: "Or"
+                                    }),
+                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                                        className: "border-t border-gray-300 grow ml-3",
+                                        "aria-hidden": "true"
+                                    })
+                                ]
+                            }),
+                            /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("form", {
+                                children: [
+                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                                        className: "flex flex-wrap -mx-3 mb-3",
+                                        children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                                            className: "w-full px-3",
+                                            children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("button", {
+                                                className: "btn px-0 text-white bg-gray-900 hover:bg-gray-800 w-full relative flex items-center",
+                                                children: [
+                                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("svg", {
+                                                        className: "w-4 h-4 fill-current text-white opacity-75 shrink-0 mx-4",
+                                                        viewBox: "0 0 16 16",
+                                                        xmlns: "http://www.w3.org/2000/svg",
+                                                        children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("path", {
+                                                            d: "M7.95 0C3.578 0 0 3.578 0 7.95c0 3.479 2.286 6.46 5.466 7.553.397.1.497-.199.497-.397v-1.392c-2.187.497-2.683-.993-2.683-.993-.398-.895-.895-1.193-.895-1.193-.696-.497.1-.497.1-.497.795.1 1.192.795 1.192.795.696 1.292 1.888.895 2.286.696.1-.497.298-.895.497-1.093-1.79-.2-3.578-.895-3.578-3.975 0-.895.298-1.59.795-2.087-.1-.2-.397-.994.1-2.087 0 0 .695-.2 2.186.795a6.408 6.408 0 011.987-.299c.696 0 1.392.1 1.988.299 1.49-.994 2.186-.795 2.186-.795.398 1.093.199 1.888.1 2.087.496.596.795 1.291.795 2.087 0 3.08-1.889 3.677-3.677 3.875.298.398.596.895.596 1.59v2.187c0 .198.1.497.596.397C13.714 14.41 16 11.43 16 7.95 15.9 3.578 12.323 0 7.95 0z"
+                                                        })
+                                                    }),
+                                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
+                                                        className: "flex-auto pl-16 pr-8 -ml-16",
+                                                        children: "Continue with GitHub"
+                                                    })
+                                                ]
+                                            })
+                                        })
+                                    }),
+                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                                        className: "flex flex-wrap -mx-3",
+                                        children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                                            className: "w-full px-3",
+                                            children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("button", {
+                                                className: "btn px-0 text-white bg-red-600 hover:bg-red-700 w-full relative flex items-center",
+                                                children: [
+                                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("svg", {
+                                                        className: "w-4 h-4 fill-current text-white opacity-75 shrink-0 mx-4",
+                                                        viewBox: "0 0 16 16",
+                                                        xmlns: "http://www.w3.org/2000/svg",
+                                                        children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("path", {
+                                                            d: "M7.9 7v2.4H12c-.2 1-1.2 3-4 3-2.4 0-4.3-2-4.3-4.4 0-2.4 2-4.4 4.3-4.4 1.4 0 2.3.6 2.8 1.1l1.9-1.8C11.5 1.7 9.9 1 8 1 4.1 1 1 4.1 1 8s3.1 7 7 7c4 0 6.7-2.8 6.7-6.8 0-.5 0-.8-.1-1.2H7.9z"
+                                                        })
+                                                    }),
+                                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
+                                                        className: "flex-auto pl-16 pr-8 -ml-16",
+                                                        children: "Continue with Google"
+                                                    })
+                                                ]
                                             })
                                         })
                                     })
                                 ]
                             }),
                             /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
-                                className: "text-gray-400 text-center mt-6",
+                                className: "text-gray-600 text-center mt-6",
                                 children: [
-                                    "Already using Open PRO? ",
+                                    "Already using Simple? ",
                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx((next_link__WEBPACK_IMPORTED_MODULE_1___default()), {
                                         href: "/signin",
-                                        className: "text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out",
+                                        className: "text-blue-600 hover:underline transition duration-150 ease-in-out",
                                         children: "Sign in"
                                     })
                                 ]
@@ -468,6 +523,28 @@ function SignUp() {
 }
 
 
+/***/ }),
+
+/***/ 2301:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+/* __next_internal_client_entry_do_not_use__  cjs */ 
+const { createProxy  } = __webpack_require__(5985);
+module.exports = createProxy("/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/dist/client/link.js");
+ //# sourceMappingURL=link.js.map
+
+
+/***/ }),
+
+/***/ 2585:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+
+module.exports = __webpack_require__(2301);
+
+
 /***/ })
 
 };
@@ -477,7 +554,7 @@ function SignUp() {
 var __webpack_require__ = require("../../../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [67,93,670,365], () => (__webpack_exec__(2434)));
+var __webpack_exports__ = __webpack_require__.X(0, [67,467,453], () => (__webpack_exec__(9923)));
 module.exports = __webpack_exports__;
 
 })();
