@@ -3102,6 +3102,32 @@
         "async": false
       }
     },
+    "(app-client)/./components/ui/header.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/ui/header.tsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/ui/header.tsx",
+        "name": "",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/ui/header.tsx",
+        "name": "default",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      }
+    },
     "(app-client)/./public/images/chrome.png": {
       "*": {
         "id": "(sc_client)/./public/images/chrome.png",
@@ -3228,32 +3254,6 @@
         "name": "default",
         "chunks": [
           "app/(default)/page:app/(default)/page"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./components/ui/header.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/ui/header.tsx",
-        "name": "*",
-        "chunks": [
-          "app/layout:app/layout"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./components/ui/header.tsx",
-        "name": "",
-        "chunks": [
-          "app/layout:app/layout"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./components/ui/header.tsx",
-        "name": "default",
-        "chunks": [
-          "app/layout:app/layout"
         ],
         "async": false
       }
@@ -11284,6 +11284,44 @@
       ],
       "async": false
     },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/app/css/style.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\",\"display\":\"swap\"}],\"variableName\":\"inter\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/components/ui/header.tsx": {
+      "id": "(app-client)/./components/ui/header.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/components/ui/header.tsx#": {
+      "id": "(app-client)/./components/ui/header.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/components/ui/header.tsx#default": {
+      "id": "(app-client)/./components/ui/header.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
     "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/public/images/chrome.png": {
       "id": "(app-client)/./public/images/chrome.png",
       "name": "*",
@@ -12057,44 +12095,6 @@
       "name": "warnOnce",
       "chunks": [
         "app/(default)/page:app/(default)/page"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/app/css/style.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\",\"display\":\"swap\"}],\"variableName\":\"inter\"}#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/components/ui/header.tsx": {
-      "id": "(app-client)/./components/ui/header.tsx",
-      "name": "*",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/components/ui/header.tsx#": {
-      "id": "(app-client)/./components/ui/header.tsx",
-      "name": "",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    },
-    "/Users/yunhanluo/Documents/Work/SDE/cornell exam website/components/ui/header.tsx#default": {
-      "id": "(app-client)/./components/ui/header.tsx",
-      "name": "default",
-      "chunks": [
-        "app/layout:app/layout"
       ],
       "async": false
     }

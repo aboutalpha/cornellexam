@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home - Simple',
-  description: 'Page description',
+  title: 'Cornell Exam Schedule Viewer',
+  description: 'Cornell Exam Schedule Viewer',
 }
 
 import Hero from '@/components/hero'
